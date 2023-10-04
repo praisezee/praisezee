@@ -18,7 +18,7 @@ With a solid foundation in MongoDB, Express.js, React, Next.js and Node.js, I th
 ## Let's Connect
 I'm an advocate for the power of community and knowledge-sharing. Let's connect and learn from each other:
 - LinkedIn: [Praise Folorunso](https://www.linkedin.com/in/praise-folorunso-291826242)
-- Twitter: [@folorunsoprais1](https://twitter.com/folorunsoprais1)
+- Twitter: [@dev_apus](https://twitter.com/dev_apus)
 - Personal Website: [Portfolio](https://folorunsopraise.vercel.app)
 
 Feel free to explore my repositories, share your insights, and let's embark on this coding adventure together. Happy coding! 🚀👨‍💻
