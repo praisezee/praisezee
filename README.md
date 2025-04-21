@@ -16,9 +16,6 @@ A custom EVM-compatible L1 combining:
 - Solana-like speed  
 Powered by a custom consensus called **SupaBFT** (PoH + PBFT).
 
-### ❤️ Proof of Love  
-A decentralized dating experience for onchain romantics. Verifiable vibes, coming soon.
-
 ---
 
 ## 🛠 Tech Stack I Love
