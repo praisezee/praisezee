@@ -1,24 +1,64 @@
-# Hello, Fellow Developers! 👋
+# 👋 Hey, I’m Praise Oluwapelumi Folorunso
 
-I'm Praise Folorunso, a passionate MERN Stack Developer on a journey to craft amazing web experiences. Welcome to my GitHub profile! Here, you'll find a mix of personal projects, experiments, and collaborations that showcase my coding journey and commitment to continuous learning.
+I'm a full-stack developer, founder, and technical leader building in the world of DeFi, blockchain infrastructure, and next-gen applications. I love creating things that push boundaries—whether it's a DEX, a custom blockchain, or a meme-filled DAO revolution.
 
-## About Me
-With a solid foundation in MongoDB, Express.js, React, Next.js and Node.js, I thrive on building dynamic and user-centric applications. My curiosity extends beyond the MERN stack, as I'm excited to explore new technologies and expand my skill set.
+---
 
-## What You'll Find Here
-- **Projects**: I love turning ideas into reality. You'll find a range of projects here, from full-stack web applications to front-end UI/UX experiments.
-- **Learning**: I believe in learning in public. You might come across repositories where I'm diving into new languages, frameworks, or concepts for the web3 stack.
-- **Collaboration**: I'm open to collaboration! If you have exciting ideas or want to team up on a project, feel free to reach out.
+## 🚀 What I'm Working On
 
-## My Tech Stack
-- Front-End: React, Bootstrap, Next.js, HTML5, CSS3, JavaScript
-- Back-End: Node.js, Express.js, Solidity, MongoDB, RESTful APIs
-- Dev Tools: Git, VS Code, Postman, Vercel
+### ⚙️ [SupaDao](https://github.com/SupaDao)
+An all-in-one DeFi protocol on Monad — DEX, bridge, staking, governance, NFTs, and more.
 
-## Let's Connect
-I'm an advocate for the power of community and knowledge-sharing. Let's connect and learn from each other:
-- LinkedIn: [Praise Folorunso](https://www.linkedin.com/in/praise-folorunso-291826242)
-- Twitter: [@dev_apus](https://twitter.com/dev_apus)
-- Personal Website: [Portfolio](https://folorunsopraise.vercel.app)
+### 🧱 SupaChain *(WIP)*
+A custom EVM-compatible L1 combining:
+- Cosmos-style interoperability
+- Ethereum's ecosystem power
+- Solana-like speed  
+Powered by a custom consensus called **SupaBFT** (PoH + PBFT).
 
-Feel free to explore my repositories, share your insights, and let's embark on this coding adventure together. Happy coding! 🚀👨‍💻
+### ❤️ Proof of Love  
+A decentralized dating experience for onchain romantics. Verifiable vibes, coming soon.
+
+---
+
+## 🛠 Tech Stack I Love
+- **Languages:** TypeScript, Rust, Solidity, PHP (sometimes)
+- **Frontend:** React, React Native, Tailwind, NativeWind, HeroUi, Vite
+- **Backend:** Node.js, Express, Prisma, PostgreSQL
+- **Infra:** Vercel, Docker, Safe Wallets
+- **Web3:** EVM, Solidity, SupaBFT, custom consensus, NFT tooling, Foundry
+
+---
+
+## 🧠 My Roles
+
+- **👨🏽‍💻 Founder – [Apus Industries](https://github.com/apus-industries-limited)**  
+  Building custom software for startups, scale-ups, and solo builders.
+
+- **🌐 Creator – SupaDao**  
+  A crypto-native DAO protocol for a permissionless future.
+
+- **🌐 Creator – SupaShop**  
+  An ecommerce platform bringing the world of crypto into it.
+
+---
+
+## 📝 Fun Facts
+
+- 🎓 Microbiology Graduate (2:1) – ISCOM University, Benin Republic  
+- 🌍 Based in Nigeria  
+- 🧩 Obsessed with protocol design, decentralized infra, and smooth UX
+- 🐸 Occasionally posting memes for the culture
+
+---
+
+## 📫 Get in Touch
+
+- Twitter: [@dev_apus](https://twitter.com/dev_apus)  
+- Email: `praise@supadao.xyz`  
+- Building something cool? Let’s connect.
+
+---
+
+> “Code like a builder. Ship like a founder.”
+
